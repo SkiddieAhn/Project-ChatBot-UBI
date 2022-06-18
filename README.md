@@ -1,5 +1,5 @@
 # ChatBot UBI
-2021년 11월 사이드 프로젝트 (개인)
+2021년 11월 Node.js 사이드 프로젝트 (개인)
 
 ## 💡 Description
 ![UBI](https://user-images.githubusercontent.com/52392658/174422766-5777b24a-be9d-4427-9e0e-b7386e6268e9.png)
@@ -44,9 +44,11 @@
 <strong>웹 앱:</strong> ExpressJS Framework<br>
 <strong>웹 서버 컴퓨터:</strong> Amazon EC2 (Free Tier)<br>
 <strong>프로세스 매니저:</strong> PM2<br>
+<strong>데이터베이스:</strong> lowdb 3.0<br>
 <strong>챗봇 API:</strong> Kakao I Open Builder [[View](https://i.kakao.com/)]<br>
 
 ### 2. Security
+<strong>패키지:</strong> ubicrypt [[GitHub](https://github.com/SkiddieAhn/Project-UBI-Encryption)] [[npm](https://npm.io/package/ubicrypt)]<br>
 <strong>암호화:</strong> RSA-17 (직접 구현)<br>
 <strong>문자 변환:</strong> Huffman Coding<br>
 <strong>한영 변환:</strong> Inko.js [[View](https://github.com/738/inko)]<br>

@@ -53,5 +53,3 @@
 <strong>문자 변환:</strong> Huffman Coding<br>
 <strong>한영 변환:</strong> Inko.js [[View](https://github.com/738/inko)]<br>
 <strong>참고 도서:</strong> Discrete Mathematics and Its Applications (7th Edition)<br>
-
-## 🛠 Service

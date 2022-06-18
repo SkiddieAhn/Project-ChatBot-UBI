@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "Id": "c28b54af20b9a2ba7e56d7c4e27040d8622068a4c405807ca6f78c9babec65ae95",
+      "status": 20,
+      "current_ucode": 0,
+      "current_bcode": 0,
+      "mode": 2
+    },
+    {
+      "Id": "49a2c466c870cfa5e25893b87de7629a2d7bb24cb7156ff2c5d45a46622300d7df",
+      "status": 0,
+      "current_ucode": 0,
+      "current_bcode": 0,
+      "mode": 0
+    },
+    {
+      "Id": "14fa8161cc14b8ef995f1bafff8e5fb0d67c0370c09eebaeaafa8e06781ff3e377",
+      "status": 0,
+      "current_ucode": 0,
+      "current_bcode": 0,
+      "mode": 1
+    },
+    {
+      "Id": "56ea95b3f7115ba07da774aaffb4085940af71d597ec230e37aefe3192079ea867",
+      "status": 0,
+      "current_ucode": 0,
+      "current_bcode": 0,
+      "mode": 0
+    },
+    {
+      "Id": "1748541fe93fa8db900ef57273abfa07dc5c9a28dae5ab2ea9a2813d008bef7098",
+      "status": 0,
+      "current_ucode": 0,
+      "current_bcode": 0,
+      "mode": 0
+    },
+    {
+      "Id": "3128871d1515c622756c19d559613848f713ca51f9639b5f2d5968f56ae258698e",
+      "status": 0,
+      "current_ucode": 0,
+      "current_bcode": 0,
+      "mode": 0
+    }
+  ]
+}

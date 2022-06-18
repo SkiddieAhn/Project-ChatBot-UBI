@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "install": "^0.13.0",
+    "lowdb": "^2.1.0",
+    "session": "^0.1.0",
+    "session-file-store": "^1.5.0",
+    "shortid": "^2.2.16",
+    "ubicrypt": "^1.9.1"
+  }
+}

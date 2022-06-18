@@ -1,0 +1,15 @@
+{
+  "name": "ubicrypt",
+  "version": "1.9.1",
+  "description": "encryption and decryption with ubi code",
+  "main": "ubicrypt.js",
+  "dependencies": {
+    "inko": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ahnsunghyun",
+  "license": "ISC"
+}

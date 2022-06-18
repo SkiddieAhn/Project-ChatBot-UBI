@@ -1,5 +1,5 @@
 # ChatBot UBI
-2021년 11월 Node.js 사이드 프로젝트 (개인)
+2021년 8월 Node.js 사이드 프로젝트 (개인)
 
 ## 💡 Description
 ![UBI](https://user-images.githubusercontent.com/52392658/174422766-5777b24a-be9d-4427-9e0e-b7386e6268e9.png)
@@ -53,3 +53,5 @@
 <strong>문자 변환:</strong> Huffman Coding<br>
 <strong>한영 변환:</strong> Inko.js [[View](https://github.com/738/inko)]<br>
 <strong>참고 도서:</strong> Discrete Mathematics and Its Applications (7th Edition)<br>
+
+## 🛠 Service
